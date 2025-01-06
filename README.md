@@ -26,7 +26,7 @@ Bu programı yazma noktasında Mac bilgisayarlarda aynı işlevi gören CCleaner
 GitHub Hesabı : https://github.com/ombhd
 CCleaner : https://github.com/ombhd/Cleaner_42
 
-## Install
+## Yükleme
 Programı yüklemek için aşağıdaki komutu kullanabilirsiniz. 
 
 
