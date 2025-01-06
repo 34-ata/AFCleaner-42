@@ -9,8 +9,15 @@ GitHub Account : https://github.com/ombhd
 CCleaner : https://github.com/ombhd/Cleaner_42
 
 ## Install
-You can use the following command to install the program. 
-
+You can use the following command to install the program:
+`
+git clone https://github.com/acbst0/AFCleaner-42.git &&
+cd AFCleaner-42 &&
+bash installer.sh &&
+cd .. &&
+rm -rf AFCleaner-42
+`
+If you encounter any problem while installing, you can open an Issue in GitHub.
 
 ## Usage
 After the installation is complete, restart the terminal.
@@ -27,8 +34,15 @@ GitHub Hesabı : https://github.com/ombhd
 CCleaner : https://github.com/ombhd/Cleaner_42
 
 ## Yükleme
-Programı yüklemek için aşağıdaki komutu kullanabilirsiniz. 
-
+Programı yüklemek için aşağıdaki komutu kullanabilirsiniz:
+`
+git clone https://github.com/acbst0/AFCleaner-42.git &&
+cd AFCleaner-42 &&
+bash installer.sh &&
+cd .. &&
+rm -rf AFCleaner-42
+`
+Yükleme sırasında bir hata ile karşılaşırsanız GitHub üzerinden Issue ile bildirebilirsiniz.
 
 ## Kullanımı
 Kurulum tamamlandıktan sonra terminali yeniden başlatın.
