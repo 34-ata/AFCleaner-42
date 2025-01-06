@@ -13,6 +13,9 @@ cp $THIS_FOLDER"/AFCleaner.sh" $BASE_DIR"/AFC/"
 BASH_RC="$BASE_DIR""/.bashrc"
 ZSH_RC="$BASE_DIR""/.zshrc"
 
+touch $BASH_RC
+touch $ZSH_RC
+
 # Alias'ı eklemek için fonksiyon
 add_alias() {
   local alias_name="$1"
