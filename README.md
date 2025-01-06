@@ -10,13 +10,13 @@ CCleaner : https://github.com/ombhd/Cleaner_42
 
 ## Install
 You can use the following command to install the program:
-`
-git clone https://github.com/acbst0/AFCleaner-42.git &&
-cd AFCleaner-42 &&
-bash installer.sh &&
-cd .. &&
+```
+git clone https://github.com/acbst0/AFCleaner-42.git && \
+cd AFCleaner-42 && \
+bash installer.sh && \
+cd .. && \
 rm -rf AFCleaner-42
-`
+```
 If you encounter any problem while installing, you can open an Issue in GitHub.
 
 ## Usage
