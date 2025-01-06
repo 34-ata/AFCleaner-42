@@ -45,7 +45,7 @@ function clean {
   for dir in "$BASE_DIR/.var/app/com.visualstudio.code/cache/vscode-cpptools/*" \
              "$BASE_DIR/.var/app/com.visualstudio.code/cache/tmp" \
              "$BASE_DIR/.var/app/com.visualstudio.code/data/recently-used.xbel" \
-             "$BASE_DIR/.var/app/com.google.Chrome/cache/*" \
+             "$BASE_DIR/.var/app/com.google.Chrome/cache" \
              "$BASE_DIR/.var/app/com.brave.Browser/cache/*" \
              "$BASE_DIR/.var/app/org.mozilla.firefox/cache/*" \
              "$BASE_DIR/.var/app/com.opera.Opera/cache/*" \
