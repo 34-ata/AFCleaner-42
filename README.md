@@ -35,13 +35,13 @@ CCleaner : https://github.com/ombhd/Cleaner_42
 
 ## Yükleme
 Programı yüklemek için aşağıdaki komutu kullanabilirsiniz:
-`
-git clone https://github.com/acbst0/AFCleaner-42.git &&
-cd AFCleaner-42 &&
-bash installer.sh &&
-cd .. &&
+```
+git clone https://github.com/acbst0/AFCleaner-42.git && \
+cd AFCleaner-42 && \
+bash installer.sh && \
+cd .. && \
 rm -rf AFCleaner-42
-`
+```
 Yükleme sırasında bir hata ile karşılaşırsanız GitHub üzerinden Issue ile bildirebilirsiniz.
 
 ## Kullanımı
